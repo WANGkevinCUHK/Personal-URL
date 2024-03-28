@@ -1,7 +1,7 @@
 ## Hi! my name is WANG Qunzhong(王群中)
 >Now I am a Year 1 student of **Chinese University of Hong Kong**, majoring in ***Mathematics and information Engineering***
 
-<img src="https://github.com/WANGkevinCUHK/PersonalWeb/blob/main/photo.jpg" alt="Here is my photo!" width="130" height="200">
+<img src="https://github.com/WANGkevinCUHK/PersonalWeb/blob/main/photo.jpg" alt="Here is my photo!" width="145" height="200">
 
 > here is my personal introduction
 
