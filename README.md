@@ -19,7 +19,7 @@
 > - 2023-2027' **Chinese University of Hong Kong**, majoring in ***Mathematics and information Engineering***
 > > cGPA = 3.80
 
-### Awards
+### High-school-days Awards
 > - Math competitions
 > > - Chinese Mathematics Olympiad(CMO) golden medal
 > > - Chinese Physics Olympiad(in province) first prize(rank 3 in Jiangsu province) 
