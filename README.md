@@ -1,5 +1,5 @@
 ## Hi! my name is WANG Qunzhong(王群中)
->Now I am a Year 2 student of **Chinese University of Hong Kong**, majoring in ***Mathematics and information Engineering***
+>Now I am currently a Year 2 student of **Chinese University of Hong Kong**, majoring in ***Mathematics and information Engineering***
 
 <img src="https://github.com/WANGkevinCUHK/PersonalWeb/blob/main/photo.jpg" alt="Here is my photo!" width="145" height="200">
 
@@ -29,7 +29,9 @@
 > - ACM International Collegiate Programming Contest
 > > - CUHK ICPC School Team 2023‘-
 > - MCM mathematical modeling contest
-> > - participated in MCM mathematical modeling contest, With Guo zijie and Dai dasen
+> > - Meritorious Winner in MCM mathematical modeling contest
+> - Simon Marais Mathematics Competition
+> > 11-th in EAST division
 
 ### Research Experience
 > - Supervised by professor [Cheng hong](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/)
