@@ -1,4 +1,4 @@
-## I am WANG Qunzhong(王群中)
+## I am Qunzhong Wang(王群中)
 >Now I am currently a Year 2 student of **Chinese University of Hong Kong**, majoring in ***Mathematics and information Engineering***
 
 <img src="https://github.com/WANGkevinCUHK/PersonalWeb/blob/main/photo.jpg" alt="Here is my photo!" width="145" height="200">
